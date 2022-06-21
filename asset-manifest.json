@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/abhinavreacttodo/static/css/main.7a970b1a.css",
+    "main.js": "/abhinavreacttodo/static/js/main.5a8e0f21.js",
+    "static/js/787.2afbd57d.chunk.js": "/abhinavreacttodo/static/js/787.2afbd57d.chunk.js",
+    "static/media/Logo.png": "/abhinavreacttodo/static/media/Logo.6d371cba7ef77a403b6f.png",
+    "index.html": "/abhinavreacttodo/index.html",
+    "main.7a970b1a.css.map": "/abhinavreacttodo/static/css/main.7a970b1a.css.map",
+    "main.5a8e0f21.js.map": "/abhinavreacttodo/static/js/main.5a8e0f21.js.map",
+    "787.2afbd57d.chunk.js.map": "/abhinavreacttodo/static/js/787.2afbd57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a970b1a.css",
+    "static/js/main.5a8e0f21.js"
+  ]
+}
